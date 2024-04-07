@@ -109,7 +109,7 @@ Please install or have installed the following:
 
 After installing node open a terminal in your code editor (VS Code for example) and clone this repository :
    ```sh
-   git clone https://github.com/kaymen99/ClassyDogs-NFT-Project.git
+   git clone https://github.com/filipmariania/NFT-ClassyDogs-Project.git
    cd ClassyDogs-NFT-Project
    ```
 
